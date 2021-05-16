@@ -15,7 +15,7 @@ class ButtonActionUI extends StatelessWidget {
     InkWell buttonAction = InkWell(
       child: Container(
         alignment: Alignment(0, 0),
-        margin: EdgeInsets.only(top: 10, right: 30),
+        margin: EdgeInsets.only(top: 10, right: 10),
         height: buttonHeight,
         width: buttonWidth,
         decoration: decorationType(buttonDecoration),
