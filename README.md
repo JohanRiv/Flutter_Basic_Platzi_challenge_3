@@ -1,6 +1,6 @@
 # platzi_reto_3
 
-A new Flutter project to complete the challenge 2 for couser of Flutter in Platzi.
+A new Flutter project to complete the challenge 3 for couser of Flutter in Platzi.
 
 ## Getting Started
 
